@@ -10,7 +10,7 @@ de nuestros valientes y talentosos participantes
 
 ### Backend
 
-1. Clona el repositorio: `git clone <URL_DEL_REPOSITORIO>`
+1. Clona el repositorio: `git clone git@github.com:FuenRob/pentahlon-heroes.git`
 2. Navega al directorio del backend: `cd backend`
 3. Instala las dependencias: `npm install`
 4. Configura las variables de entorno en un archivo `.env`
